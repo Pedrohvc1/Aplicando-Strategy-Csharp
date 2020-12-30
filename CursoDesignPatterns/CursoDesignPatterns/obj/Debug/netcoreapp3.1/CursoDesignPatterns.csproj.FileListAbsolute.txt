@@ -1,0 +1,13 @@
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp3.1\CursoDesignPatterns.exe
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp3.1\CursoDesignPatterns.deps.json
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp3.1\CursoDesignPatterns.runtimeconfig.json
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp3.1\CursoDesignPatterns.runtimeconfig.dev.json
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp3.1\CursoDesignPatterns.dll
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\netcoreapp3.1\CursoDesignPatterns.pdb
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp3.1\CursoDesignPatterns.csprojAssemblyReference.cache
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp3.1\CursoDesignPatterns.AssemblyInfoInputs.cache
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp3.1\CursoDesignPatterns.AssemblyInfo.cs
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp3.1\CursoDesignPatterns.csproj.CoreCompileInputs.cache
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp3.1\CursoDesignPatterns.dll
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp3.1\CursoDesignPatterns.pdb
+D:\ADS\Digital Inovation One\Aplicando design patterns na prática com C#\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\netcoreapp3.1\CursoDesignPatterns.genruntimeconfig.cache
